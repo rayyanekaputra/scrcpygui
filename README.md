@@ -11,9 +11,10 @@ Built with Python + CustomTkinter. Tested on **Linux Mint 22.3**.
 
 | | |
 |---|---|
-| ![Mirror](screenshots/Preview_1.png) | ![Settings](screenshots/Preview_2.png) |
-| ![Livestream](screenshots/Preview_3.png) | ![Log](screenshots/Preview_4.png) |
-| ![TCP/IP](screenshots/Preview_5.png) | |
+| ![](screenshots/1.png) | ![](screenshots/2.png) |
+| ![](screenshots/3.png) | ![](screenshots/4.png) |
+| ![](screenshots/5.png) | ![](screenshots/6.png) |
+| ![](screenshots/7.png) | ![](screenshots/8.png) |
 
 ---
 
